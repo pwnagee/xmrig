@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "monerohash.com:9999",
+            "user": "46h8KxvfmHgTqHKcEiF4Zy8ydBwH23V4v5syVEkbuT8Z2eQVEomG5E9VmcnUWTwQKLR1WzxkaxyM69hQuNzSZ2xz1AfePKe",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
